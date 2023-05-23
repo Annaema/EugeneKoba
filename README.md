@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Eugene 👋🏾
+![IMG_4929_01](https://github.com/EugeneKoba/EugeneKoba/assets/120111293/615946c7-a1b4-4b0e-a988-48ad8e63a344)
+
+I'm an aspiring Web Developer who is passionate about Insurance, Data & Tech! I aim to create technology to elevate people, and build a community. Some technologies I enjoy working with include ReacJS, Javascript, SQL & more. I am currently working on a 'Car Insurance & Rental' website that gives users an estimated Car Insurance Premium Quote at the click of a button, plus much more! My interest in the React Ecosystem led me to join the [React Developers](https://www.linkedin.com/groups/6519652/) group on Linkedin, take part in Hackathons and attend talks with [React Native](https://reactnative.dev/)!
+
+## Find me on Social Media
+
+Find me on [LinkedIn](https://www.linkedin.com/in/eugene-koba-annan-15b650183/)📱 & [Instagram](https://www.instagram.com/_koba_designs/)📸
 
 <!--
 **EugeneKoba/EugeneKoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
