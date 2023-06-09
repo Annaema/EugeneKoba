@@ -4,7 +4,7 @@
 
 I'm an aspiring Web Developer who is passionate about Insurance, Data & Tech! I aim to create technology to elevate people, and build a community. Some technologies I enjoy working with include ReactJS, Javascript, SQL & more. I am currently working on a 'Car Insurance & Rental' website that gives users an estimated Car Insurance Quote at the click of a button, plus much more! My interest in the React Ecosystem led me to join the [React Developers](https://www.linkedin.com/groups/6519652/) group on Linkedin, take part in Hackathons and attend talks with [React Native](https://reactnative.dev/)!
 
-Check out my [Portfolio](https://eugenekoba.github.io/eugene_annan_portfolio/)!🖥
+Check out my [Web Development Portfolio](https://eugenekoba.github.io/eugene_annan_portfolio/)! 🖥
 
 Feel free to ask me about my projects!
 
